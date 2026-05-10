@@ -1,6 +1,5 @@
-// 14 and 16 macbook -> Presentation controls
 import { PresentationControls } from "@react-three/drei";
-import React, { useRef } from "react";
+import { useRef } from "react";
 import MacbookModel16 from "../models/Macbook-16";
 import MacbookModel14 from "../models/Macbook-14";
 import gsap from "gsap";
