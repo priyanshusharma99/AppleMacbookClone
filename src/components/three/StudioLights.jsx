@@ -1,6 +1,4 @@
 import { Environment, Lightformer } from "@react-three/drei";
-import React from "react";
-import { Group } from "three/examples/jsm/libs/tween.module.js";
 
 const StudioLights = () => {
   return (
